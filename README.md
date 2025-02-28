@@ -1,12 +1,21 @@
 # AI系统自我复制演示项目
 
-这个项目是对论文中描述的AI系统自我复制实验的一个演示性实现。项目使用ReAct模式来实现智能体的决策和执行过程。
+这个项目是对论文中描述的AI系统自我复制实验的一个演示性实现。
+论文地址：https://arxiv.org/abs/2412.12140
 
 ## 原论文技术点描述
+
 - 原论文描述
 ![alt text](imgs/image.png)
 - 实际技术点
 ![alt text](<imgs/image copy.png>)
+
+## 改进点 & Further Study
+- dynanic workflow -- MLE Bench or Drone VLN Agent
+- Reasoning Model rather that Agentic System
+- Multi-agent System
+- Teacher-Student：Distall or Memory Transfer
+- Collective Intelligence
 
 ## 项目特点
 
